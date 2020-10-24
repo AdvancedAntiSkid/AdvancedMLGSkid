@@ -1,8 +1,12 @@
-### Hi there 👋
+<h1>👋🏼 Welcome to my GitHub Profile 👋🏼</h1>
+
+<b>🔨 Working on Anti-Cheat and Cloud at @VelocityMC</b>
+
+
 
 <!--
 **AdvancedMLGSkid/AdvancedMLGSkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
