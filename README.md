@@ -1,6 +1,7 @@
 <h1>👋🏼 Welcome to my GitHub Profile 👋🏼</h1>
 
 <b>🔨 Working on Anti-Cheat and Cloud at @VelocityMC</b>
+<br>
 <span>🍔 Still eating healthy every day 🍟</span>
 
 <span>ℹ️ Contact information</span>
