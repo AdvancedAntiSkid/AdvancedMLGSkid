@@ -1,6 +1,14 @@
 <h1>👋🏼 Welcome to my GitHub Profile 👋🏼</h1>
 
 <b>🔨 Working on Anti-Cheat and Cloud at @VelocityMC</b>
+<span>🍔 Still eating healthy every day 🍟</span>
+
+<span>ℹ️ Contact information</span>
+<ul>
+  <li>💬 Discord: AdvancedMLGSkid#6146</li>
+  <li>📧 E-mail: advancedmlgskid@velocityac.xyz</li>
+  <li>🔒 PGP Public key: <a href="https://github.com/AdvancedMLGSkid/AdvancedMLGSkid/pgp_key">key</a></li>
+</ul>
 
 
 
